@@ -1,3 +1,8 @@
+<h1 align="center">
+    GoBarber API
+</h1>
+
+
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
